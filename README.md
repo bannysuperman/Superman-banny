@@ -1,9 +1,3 @@
-<div align="center">
-
-<table width="90%" border="1" cellspacing="0" cellpadding="0">
-<tr>
-<td height="100">
-
 <br><br>
 
 <table width="100%" cellspacing="0" cellpadding="5">
