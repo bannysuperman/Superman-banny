@@ -8,7 +8,7 @@ THE BARBARA GORDON OF PONYTOWN!
 wanted to ask them but i can't find them around, im so sorry... 
 
 --------
-my dear friends and how *I* SEE THEM ok? 
+my dear friends and how *I SEE THEM* ok? 
 <br>
 
 <a href="https://github.com/JAWS0DEATH">@INVINCIBLE/BATMANBEYOND</a><br>
@@ -37,5 +37,6 @@ help forgive me ren-
 <a href="https://github.com/paletteneka">@Yarao Kaneka/Mitsuki</a><br>
 <img src="https://i.postimg.cc/kXrMTPMc/Screenshot-20260826-071150.jpg" width="150"> 
 
+still gonna add more- gimme time
 
 </details>
