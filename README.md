@@ -1,9 +1,17 @@
 <details>
 <summary>▶ FRIENDS! I LOVE YALL</summary>
 
+Cute idea i got it from:
 <br>
 
-<a href="https://github.com/JAWS0DEATH">GHOUL</a><br>
+<a href="https://github.com/oraclegordon">@oraclegordon</a><br>
+wanted to ask them but i can't find them around, im so sorry... 
+
+--------
+
+<br>
+
+<a href="https://github.com/JAWS0DEATH">@GHOUL</a><br>
 <img src="https://i.postimg.cc/sf7ZJcPb/In-Shot-20260826-071358615.jpg" width="150">
 
 <br>
@@ -13,5 +21,14 @@
 
 <br>
 
+<br>
+
+<a href="https://github.com/oashushkitten">@JON</a><br>
+<img src="https://i.postimg.cc/PJRcJj3s/7952ac415eeeb3bf25e99773b423bc95.jpg" width="150"> 
+
+<br>
+
+<a href="https://github.com/Kryptoniandog">@Nightwing</a><br>
+<img src="https://i.postimg.cc/RFbGQTc7/b019bde1d841b4f5f17bd4b07241ca82.jpg" width="150"> 
 
 </details>
