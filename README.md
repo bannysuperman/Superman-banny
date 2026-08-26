@@ -11,7 +11,7 @@ wanted to ask them but i can't find them around, im so sorry...
 my dear friends and how *I* SEE THEM ok? 
 <br>
 
-<a href="https://github.com/JAWS0DEATH">MARK/TERRY/a><br>
+<a href="https://github.com/JAWS0DEATH">@INVINCIBLE/BATMANBEYOND</a><br>
 <img src="https://i.postimg.cc/sf7ZJcPb/In-Shot-20260826-071358615.jpg" width="150">
 
 <br>
@@ -28,7 +28,9 @@ my dear friends and how *I* SEE THEM ok?
 
 <br>
 
-<a href="https://github.com/Kryptoniandog">@Nightwing</a><br>
-<img src="https://i.postimg.cc/RFbGQTc7/b019bde1d841b4f5f17bd4b07241ca82.jpg" width="150"> 
+<a href="https://github.com/Kryptoniandog">@NIGHTWING</a><br>
+<img src="https://i.postimg.cc/RFbGQTc7/b019bde1d841b4f5f17bd4b07241ca82.jpg" width="150">
+
+
 
 </details>
