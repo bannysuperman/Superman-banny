@@ -3,17 +3,15 @@
 
 <br>
 
-<a href="https://github.com/FRIEND1">@</a><br>
-<img src="IMAGE_URL_1" width="150">
+<a href="https://github.com/JAWS0DEATH">GHOUL</a><br>
+<img src="https://i.postimg.cc/sf7ZJcPb/In-Shot-20260826-071358615.jpg" width="150">
 
 <br>
 
-<a href="https://github.com/FRIEND2">@FRIEND2</a><br>
-<img src="IMAGE_URL_2" width="150">
+<a href="https://github.com/SINISTERMARKLOVESU">@JACK</a><br>
+<img src="https://i.postimg.cc/L646ZBxT/8220bf261dafc19e195327cca8dbe982.jpg" width="150">
 
 <br>
 
-<a href="https://github.com/FRIEND3">@FRIEND3</a><br>
-<img src="IMAGE_URL_3" width="150">
 
 </details>
