@@ -3,20 +3,20 @@
 
 Cute idea i got it from:
 <br>
-
+THE BARBARA GORDON OF PONYTOWN! 
 <a href="https://github.com/oraclegordon">@oraclegordon</a><br>
 wanted to ask them but i can't find them around, im so sorry... 
 
 --------
-
+my dear friends and how *I* SEE THEM ok? 
 <br>
 
-<a href="https://github.com/JAWS0DEATH">@GHOUL</a><br>
+<a href="https://github.com/JAWS0DEATH">MARK/TERRY/a><br>
 <img src="https://i.postimg.cc/sf7ZJcPb/In-Shot-20260826-071358615.jpg" width="150">
 
 <br>
 
-<a href="https://github.com/SINISTERMARKLOVESU">@JACK</a><br>
+<a href="https://github.com/SINISTERMARKLOVESU">@SINISTER MARK</a><br>
 <img src="https://i.postimg.cc/L646ZBxT/8220bf261dafc19e195327cca8dbe982.jpg" width="150">
 
 <br>
