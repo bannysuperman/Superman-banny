@@ -31,6 +31,11 @@ my dear friends and how *I* SEE THEM ok?
 <a href="https://github.com/Kryptoniandog">@NIGHTWING</a><br>
 <img src="https://i.postimg.cc/RFbGQTc7/b019bde1d841b4f5f17bd4b07241ca82.jpg" width="150">
 
+<br>
+help forgive me ren-
+
+<a href="https://github.com/paletteneka">@Yarao Kaneka/Mitsuki</a><br>
+<img src="https://i.postimg.cc/kXrMTPMc/Screenshot-20260826-071150.jpg" width="150"> 
 
 
 </details>
