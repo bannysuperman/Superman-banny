@@ -27,7 +27,7 @@
   <table>
     <tr>
       <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
-        <img src="YOUR-IMAGE-URL"
+        <img src="https://i.postimg.cc/Dwcd9fRr/In-Shot-20261024-200455222.png"
              width="500"
              alt="">
       </td>
