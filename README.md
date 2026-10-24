@@ -86,9 +86,7 @@
         <img src="https://i.postimg.cc/TwQPxFfN/pony-town-Me-Superman-afk-busy-dance-3-blinking-padded-4x.gif" width="120"
       </td>
       <td>
-        <b>title</b>
-        <br>
-        somrthin here
+        <img src="https://i.postimg.cc/3J9298VQ/In-Shot-20261024-214017513.png" width="100"
         <br><br>
         <a href="https://github.com/pt-heavyfictkin">ℎ𝑒𝑎𝑣𝑦𝑓𝑖𝑐𝑡𝑘𝑖𝑛</a>
       </td>
