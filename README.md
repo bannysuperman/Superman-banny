@@ -2,6 +2,10 @@
 <img src="https://i.postimg.cc/JzMM7mzM/In-Shot-20261024-202042456.png" width="400">
 </a> 
 
+<div align="center">
+<img src="https://img.shields.io/badge/𝙎𝙪𝙥𝙚𝙧𝙢𝙖𝙣-27.6K-a9d6ff?labelColor=555555">
+</a> 
+ <a
 
 <div align="center">
   <table>
