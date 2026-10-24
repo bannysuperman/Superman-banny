@@ -3,7 +3,7 @@
 </a> 
 
 <div align="center">
-<img src="https://img.shields.io/badge/𝙎𝙪𝙥𝙚𝙧𝙢𝙖𝙣-27.6K-a9d6ff?labelColor=555555">
+<img src="https://img.shields.io/badge/𝙎𝙪𝙥𝙚𝙧𝙢𝙖𝙣-27.6K-C69654?labelColor=006C28">
 </a> 
  <a
 
