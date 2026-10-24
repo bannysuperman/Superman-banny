@@ -13,8 +13,8 @@
         </a>
       </td>
       <td align="center" style="border: 2px solid #a9d6ff; padding: 5px;">
-        <a href="https://YOUR-THIRD-LINK.com">
-          <img src="YOUR-IMAGE-URL-3" width="140">
+        <a href="https://bannysupermanbyidniptinfos.straw.page">
+          <img src="https://i.postimg.cc/85zWQhLk/In-Shot-20261024-194507440.png" width="140">
         </a>
       </td>
     </tr>
