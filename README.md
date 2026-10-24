@@ -44,7 +44,7 @@
 
 <details>
 <summary>
-<img src="YOUR-IMAGE-URL" width="300">
+<img src="https://i.postimg.cc/P56vbCB1/In-Shot-20261024-201540422.png" width="150">
 </summary>
 
 <br>
