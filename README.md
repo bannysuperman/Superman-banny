@@ -91,7 +91,7 @@
   <table>
     <tr>
       <td>
-        <img src="YOUR_IMAGE_URL" width="120"
+        <img src="https://i.postimg.cc/TwQPxFfN/pony-town-Me-Superman-afk-busy-dance-3-blinking-padded-4x.gif" width="120"
       </td>
       <td>
         <b>title</b>
