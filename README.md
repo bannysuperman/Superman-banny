@@ -4,7 +4,7 @@
     <tr>
       <td align="center" style="border: 2px solid #a9d6ff; padding: 5px;">
         <a href="https://YOUR-STRAWPAGE.straw.page">
-          <img src="YOUR-IMAGE-URL-1" width="140">
+          <img src="https://i.postimg.cc/Qx4yRb5T/In-Shot-20261024-194447576.png" width="140">
         </a>
       </td>
       <td align="center" style="border: 2px solid #a9d6ff; padding: 5px;">
