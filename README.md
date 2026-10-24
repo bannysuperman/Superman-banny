@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td align="center" style="border: 2px solid #a9d6ff; padding: 5px;">
-        <a href="https://YOUR-STRAWPAGE.straw.page">
+        <a href="https://supermanbanny.atabook.org/">
           <img src="https://i.postimg.cc/Qx4yRb5T/In-Shot-20261024-194447576.png" width="140">
         </a>
       </td>
