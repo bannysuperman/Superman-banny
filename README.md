@@ -8,7 +8,7 @@
         </a>
       </td>
       <td align="center" style="border: 2px solid #a9d6ff; padding: 5px;">
-        <a href="https://YOUR-ATABOOK.atabook.org">
+        <a href="https://bannysupermann.straw.page">
           <img src="https://i.postimg.cc/J4GqBWyg/In-Shot-20261024-194621630.png" width="140">
         </a>
       </td>
