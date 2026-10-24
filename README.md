@@ -21,3 +21,17 @@
   </table>
 </div>
 
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
+        <img src="YOUR-IMAGE-URL"
+             width="500"
+             alt="">
+      </td>
+    </tr>
+  </table>
+</div>
+
