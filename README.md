@@ -9,7 +9,7 @@
       </td>
       <td align="center" style="border: 2px solid #a9d6ff; padding: 5px;">
         <a href="https://YOUR-ATABOOK.atabook.org">
-          <img src="YOUR-IMAGE-URL-2" width="140">
+          <img src="https://i.postimg.cc/J4GqBWyg/In-Shot-20261024-194621630.png" width="140">
         </a>
       </td>
       <td align="center" style="border: 2px solid #a9d6ff; padding: 5px;">
