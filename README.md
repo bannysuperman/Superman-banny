@@ -24,16 +24,8 @@
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
-        <img src="https://i.postimg.cc/Dwcd9fRr/In-Shot-20261024-200455222.png"
+ <img src="https://i.postimg.cc/fWtbpH1G/In-Shot-20261024-211211671.png"
              width="500"
-             alt="">
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 <div align="center">
