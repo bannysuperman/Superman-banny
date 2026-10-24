@@ -86,3 +86,21 @@
 </div>
 
 
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="YOUR_IMAGE_URL" width="120"
+      </td>
+      <td>
+        <b>title</b>
+        <br>
+        somrthin here
+        <br><br>
+        <a href="YOUR_LINK_HERE">✦ jjj ✦</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
