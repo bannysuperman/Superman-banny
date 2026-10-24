@@ -44,7 +44,7 @@
 
 <details>
 <summary>
-<img src="YOUR-IMAGE-URL" width="300" alt="Click to open">
+<img src="YOUR-IMAGE-URL" width="300">
 </summary>
 
 <br>
